@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kalyani-Borkar
-- 👀 I’m interested in Big Data, Java Framework,Docker, Blockchain, Computer Security
+- 👀 I’m interested in Big Data, Java Framework, Docker, Blockchain, Computer Security
 - 🌱 I’m currently learning Big Data Analytics
 - 💞️ I’m looking to collaborate on contributing to open source projects
 - 📫 You can reached me: kalyaniborkar2205@gmail.com | https://www.linkedin.com/in/kalyani-borkar/
